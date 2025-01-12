@@ -27,4 +27,4 @@ En este videojuego, los jugadores se enfrentan a oleadas de enemigos mientras re
 
 1. **Clona el repositorio**:
    ```bash
-   git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+   git clone https://github.com/lucascastronuovo/Desarrollo-Videojuego-2D-STRAX.git
