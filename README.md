@@ -4,7 +4,7 @@
 
 ## 📝 Descripción del Proyecto
 
-En este videojuego, los jugadores se enfrentan a oleadas de enemigos mientras recorren un escenario interactivo. El objetivo principal es sobrevivir el mayor tiempo posible mientras se acumulan puntos al derrotar enemigos.
+En este videojuego, los jugadores se enfrentan a oleadas de enemigos mientras recorren un escenario interactivo. El objetivo principal es sobrevivir el mayor tiempo posible mientras avanzas en los niveles.
 
 ### Características Principales
 - **Mecánicas de juego**: Disparos, movimiento en 2D y colisiones.
@@ -16,9 +16,9 @@ En este videojuego, los jugadores se enfrentan a oleadas de enemigos mientras re
 
 ## 🛠️ Tecnologías y Herramientas Utilizadas
 
-- **Lenguaje de Programación**: [Indica el lenguaje utilizado, e.g., Python, C#, etc.]
-- **Motor de Juego**: [Indica si usaste Unity, Godot, etc.]
-- **Diseño de Gráficos**: [Indica si creaste gráficos en herramientas como GIMP, Photoshop, etc.]
+- **Lenguaje de Programación**: C#
+- **Motor de Juego**: Unity
+- **Diseño de Gráficos**: Photoshop
 - **Control de Versiones**: Git y GitHub.
 
 ---
